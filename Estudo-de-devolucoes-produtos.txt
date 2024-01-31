@@ -1,0 +1,26 @@
+
+/* Estudo de taxa de devolução de produto 
+
+
+1- O que vamos analisar ?
+	Devoluções de produtos.
+
+2- Por que vamos analisar ?
+	Devoluções podem está impactanto diretamente  na lucratividade da empresa.
+
+3-  Onde Vamos analisar ?
+	Banco de Dados - ContosoRetailDW - Tabela de vendas.
+
+4- Como Vamos analisar?
+	Utilizando a linguagem SQL e SGBD SQL Server.
+
+5- Quanto tempo vai durar?
+
+	1 dia.
+
+6- Quando vai começar?
+	Data: 31/12/2024
+
+7- Quem vamos envolver ?
+	Gestor e áreas de interesse (produtos, atendimento ao cliente, suporte).
+*/
